@@ -4,7 +4,10 @@ Aplicativo Web criado com **Streamlit** para ajudar motoristas de aplicativo a *
 acompanharem metas diárias e registrarem seu progresso financeiro de forma simples e inteligente.
 
 ---
+## 📷 Imagens do Projeto
+
 ![image](https://github.com/user-attachments/assets/7e8d1962-d68e-48c6-84d6-b96663c2373c)
+![image](https://github.com/user-attachments/assets/71522526-8bc0-45f9-a38b-853427b84449)
 
 ---
 
